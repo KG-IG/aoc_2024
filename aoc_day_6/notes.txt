@@ -1,0 +1,9 @@
+reading input
+    get size of map
+    create array 
+
+field properties
+    position
+    visited
+    has obstacle
+    
